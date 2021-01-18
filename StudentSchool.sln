@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSchool", "StudentSchool\StudentSchool.csproj", "{8D136F86-D641-4082-88EC-CFFCCB999DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibModel", "LibModel\LibModel.csproj", "{68806B5C-C124-4DCE-8DF3-9826F6C41642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibController", "LibController\LibController.csproj", "{DCFD87EC-F0CD-42E3-A842-A5F025A0C53D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D136F86-D641-4082-88EC-CFFCCB999DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D136F86-D641-4082-88EC-CFFCCB999DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D136F86-D641-4082-88EC-CFFCCB999DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D136F86-D641-4082-88EC-CFFCCB999DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68806B5C-C124-4DCE-8DF3-9826F6C41642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68806B5C-C124-4DCE-8DF3-9826F6C41642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68806B5C-C124-4DCE-8DF3-9826F6C41642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68806B5C-C124-4DCE-8DF3-9826F6C41642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFD87EC-F0CD-42E3-A842-A5F025A0C53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFD87EC-F0CD-42E3-A842-A5F025A0C53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFD87EC-F0CD-42E3-A842-A5F025A0C53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFD87EC-F0CD-42E3-A842-A5F025A0C53D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
